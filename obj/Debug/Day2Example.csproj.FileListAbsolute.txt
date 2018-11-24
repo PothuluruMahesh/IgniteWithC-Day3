@@ -1,0 +1,16 @@
+F:\IgniteExamples\Day2Example\Day2Example\bin\Debug\Day2Example.exe.config
+F:\IgniteExamples\Day2Example\Day2Example\bin\Debug\Day2Example.exe
+F:\IgniteExamples\Day2Example\Day2Example\bin\Debug\Day2Example.pdb
+F:\IgniteExamples\Day2Example\Day2Example\bin\Debug\Apache.Ignite.Core.dll
+F:\IgniteExamples\Day2Example\Day2Example\bin\Debug\Apache.Ignite.exe
+F:\IgniteExamples\Day2Example\Day2Example\bin\Debug\Apache.Ignite.exe.config
+F:\IgniteExamples\Day2Example\Day2Example\bin\Debug\Apache.Ignite.Core.xml
+F:\IgniteExamples\Day2Example\Day2Example\obj\Debug\Day2Example.csprojAssemblyReference.cache
+F:\IgniteExamples\Day2Example\Day2Example\obj\Debug\Day2Example.csproj.CoreCompileInputs.cache
+F:\IgniteExamples\Day2Example\Day2Example\obj\Debug\Day2Example.csproj.CopyComplete
+F:\IgniteExamples\Day2Example\Day2Example\obj\Debug\Day2Example.exe
+F:\IgniteExamples\Day2Example\Day2Example\obj\Debug\Day2Example.pdb
+F:\IgniteExamples\Day2Example\Day2Example\bin\Debug\Apache.Ignite.Linq.dll
+F:\IgniteExamples\Day2Example\Day2Example\bin\Debug\Remotion.Linq.dll
+F:\IgniteExamples\Day2Example\Day2Example\bin\Debug\Apache.Ignite.Linq.xml
+F:\IgniteExamples\Day2Example\Day2Example\bin\Debug\Remotion.Linq.xml
